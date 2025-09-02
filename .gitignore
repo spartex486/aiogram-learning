@@ -3,6 +3,7 @@ venv/
 .venv/
 venv-pypy/
 virtualenv/
+.env
 
 # IDE
 .vscode/
