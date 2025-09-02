@@ -3,8 +3,8 @@ from aiogram.types import Message
 from aiogram.filters import Command, CommandStart
 from aiogram.fsm.context import FSMContext
 
-from states import Sum, Echo
-import keyboards as kb
+from main.states import Sum, Echo
+import main.keyboards as kb
 
 router = Router()
 
